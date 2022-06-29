@@ -1,0 +1,9 @@
+.Image {
+  box-sizing: border-box;
+  display: inline-block;
+  width: 50%;
+}
+
+.Image img {
+  width: 100%;
+}

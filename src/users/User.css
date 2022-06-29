@@ -1,0 +1,9 @@
+.User-container {
+  display: flex;
+}
+
+.User-data {
+  box-sizing: border-box;
+  display: inline-block;
+  width: 50%;
+}

@@ -1,0 +1,8 @@
+.Link:link, .Link:visited {
+  color: inherit;
+  text-decoration: none;
+}
+
+.Link:hover, .Link:active {
+  color: goldenrod;
+}

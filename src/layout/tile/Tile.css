@@ -1,0 +1,10 @@
+.Tile {
+  display: inline-block;
+  box-sizing: border-box;
+  padding: .5em;
+  margin: 5px;
+  background-color: #ccc;
+  border-radius: 15%;
+  width: 7em;
+  text-align: center;
+}

@@ -1,0 +1,28 @@
+.Main-header {
+  background-color: #282c34;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  text-align: center;
+}
+
+.Main-nav {
+  padding-bottom: 1rem;
+}
+
+.Main-nav .Link {
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+.Main-nav .Link:not(:last-child) {
+  border-right: solid 2px white;
+}
+
+.Main-outlet {
+  width: 30%;
+  margin: 0 auto;
+}
