@@ -23,10 +23,10 @@
 * [Recommendation from Dan Abramov](https://react-file-structure.surge.sh/) :D
 * [_LIFT_ in the previous Style Guide](https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md#application-structure-lift-principle)
 * [Folders-by-Feature](https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md#folders-by-feature-structure)
-* [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 
 ### Files responsibility
 
+* [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 * MVC
    * Model - external API & processing
    * View - JSX
@@ -39,5 +39,5 @@
 
 * Introduce `layout` part of the system
    * Treat it as a future design system
-* Gradually introduce monorepos and actual external packages (when needed)
 * Try to have self-sufficient subdirectories, easy to extract as packages
+* Gradually introduce monorepos and actual external packages (when needed)
